@@ -5,8 +5,8 @@ from binance import Client #good
 btc_wallet = 0
 usd_wallet = 500
 
-api_key = '0qs8pIhpR3QkQCpX3ZaXbEh8pEX1mSDJzSdJ8s5juUi1NbMwH5e1gCe188RcJnjO'
-api_secret = 'PuBHi5niqDSfbF8JQW8tIOLDABXE1DRXk8zRwn4MjovyZFZXdoQkEhKOllUYcC5D'
+api_key = 'API_KEY'
+api_secret = 'API_SECRET'
 client = Client(api_key, api_secret)
 
 
